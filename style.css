@@ -7,3 +7,11 @@
 {
     font-size: 12px;
 }
+
+
+body {
+    text-align: left;
+    color: white;
+    background-color: #ffffff;
+    margin-top: 2em;
+  }
